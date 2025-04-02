@@ -42,10 +42,10 @@ This is an interactive **Drum Kit Application** where users can play six differe
 2. Alternatively, press the corresponding keyboard key to play the sound.
 3. Experiment with different rhythms to create beats!
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots 
 ![Drum Kit Screenshot](Screenshot%202025-04-02%20234308.png)
 
-## 🌟 Future Enhancements (Optional)
+## 🌟 Future Enhancements
 - 🎛️ Volume and sound effect customization.
 - 🔥 Visual animations when drums are played.
 - 🎵 Recording feature to save and replay beats.
